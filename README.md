@@ -9,31 +9,41 @@
 
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniacames/)
 
-### Actualmente trabajando en:
+### :wrench: :hammer: Currently working on:
 
 :warning: :construction:
 
-### Algunos de mis proyectos:
+### :computer: Some of my projects:
 
 :warning: :construction:
 
-### :dart: Algunas tecnologías que he aprendido son:
+### :dart: Some technologies that I have learned are:
+
+String[ ] _languages_ = {" ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ", " ![image.css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ", " ![image.java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=orange&color=orange) ", " ![image.js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) "};
+
+String[ ] _frameworks_ = {" ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ", " ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ", " ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) "};
 
 
+String[ ] _DDBB_ = {" ![image.mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) "};
 
 
-<!--
-String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
-**Eucaba/Eucaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+String[ ] _testing tools_ = {" ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ", " ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) "};
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+String[ ] _IDE_ = {" ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ", " ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ", " ![jupiterlab](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) "};
+
+
+String[ ] _design_ = {" ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ", " ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) "};
+
+
+String[ ] _platforms_ = {" ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) "};
+
+### :chart_with_upwards_trend: Some of my Github stats so far...
+
+![Eucaba most used languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucaba&theme=merko)
+
+
+![Eucaba Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eucaba&theme=merko)
+
+
+![Eucaba Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=Eucaba&theme=merko)
