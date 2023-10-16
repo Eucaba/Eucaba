@@ -1,6 +1,6 @@
 ### Hi there! Welcome! :wave:
 
-**My name is Eugenia, and I'm a former psychologist starting a new adventure as a full stack web developer** :tada: I love management, processes and technology. I'm certain that following this path will allow me to apply all the knowledge I've gained as a therapyst while I keep improving my coding skills :rocket:
+**My name is Eugenia, and I'm a former psychologist starting a new adventure as a full stack web developer** :tada: I love management, processes and technology. I'm certain that following this path will allow me to apply all the knowledge I've gained as a therapyst while I keep improving my coding skills :rocket: **Let's go!**
 
 ### You can reach me at:
 
