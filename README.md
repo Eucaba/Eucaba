@@ -14,6 +14,8 @@
 :frog::crystal_ball: [The Wise Frog](https://github.com/Eucaba/WiseFrog). A little and hopefully fun app. Just for practice.
 
 ### :computer: Some of my projects:
+⛄ [Jingle Pairs](https://github.com/Eucaba/jinglepairs) This is a simple Xmas themed memory game. Made with HTML, CSS and JS.
+
 :iphone: [K0N3CT4](https://github.com/nachoa88/KoNeCTaReact). A React based app meant to bust youngster's access to culture.
 
 :recycle: [Ecopass](https://github.com/Eucaba/Ecopass). My first project ever. A vanilla JS app intended for granting teen access to culture and promoting environmental education.
