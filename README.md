@@ -11,7 +11,7 @@
 
 ### :wrench: :hammer: Currently working on:
 
-:frog::crystal_ball: [The Wise Frog](https://github.com/Eucaba/WiseFrog). A little and hopefully fun app. Just for practice.
+:doughnut::calling: [Ecommerce: click and collect](https://github.com/Eucaba/clickandcollect). This is a fullstack project. It's a click and collect app for a doughnut store.
 
 ### :computer: Some of my projects:
 ⛄ [Jingle Pairs](https://github.com/Eucaba/jinglepairs) This is a simple Xmas themed memory game. Made with HTML, CSS and JS.
