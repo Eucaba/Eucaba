@@ -45,8 +45,3 @@ String[ ] _platforms_ = {" ![trello](https://img.shields.io/badge/Trello-0052CC?
 
 ![Eucaba most used languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Eucaba&theme=merko)
 
-
-![Eucaba Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eucaba&theme=merko)
-
-
-![Eucaba Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=Eucaba&theme=merko)
