@@ -9,6 +9,8 @@
 
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniacames/)
 
+:page_with_curl: You can also check mi CV [here](https://shorturl.at/gxzL3)
+
 ### :wrench: :hammer: Currently working on:
 
 :doughnut::calling: [Ecommerce: click and collect](https://github.com/Eucaba/clickandcollect). This is a fullstack project. It's a click and collect app for a doughnut store.
