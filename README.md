@@ -11,16 +11,23 @@
 
 :page_with_curl: You can also check mi CV [here](https://shorturl.at/gxzL3)
 
+
+
 ### :wrench: :hammer: Currently working on:
+🧙🏼‍♂️ [Magic Duel](https://github.com/Eucaba/magic-duel/tree/main) A simple console application game built with C#.
 
 :doughnut::calling: [Ecommerce: click and collect](https://github.com/Eucaba/clickandcollect). This is a fullstack project. It's a click and collect app for a doughnut store.
 
+
+
 ### :computer: Some of my projects:
-⛄ [Jingle Pairs](https://github.com/Eucaba/jinglepairs) This is a simple Xmas themed memory game. Made with HTML, CSS and JS.
+⛄ [Jingle Pairs](https://github.com/Eucaba/jinglepairs) A simple Xmas themed memory game. Made with HTML, CSS and JS.
 
 :iphone: [K0N3CT4](https://github.com/nachoa88/KoNeCTaReact). A React based app meant to bust youngster's access to culture.
 
 :recycle: [Ecopass](https://github.com/Eucaba/Ecopass). My first project ever. A vanilla JS app intended for granting teen access to culture and promoting environmental education.
+
+
 
 ### :dart: Some technologies that I have learned are:
 
@@ -42,6 +49,8 @@ String[ ] _design_ = {" ![canva](https://img.shields.io/badge/Canva-%2300C4CC.sv
 
 
 String[ ] _platforms_ = {" ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) "};
+
+
 
 ### :chart_with_upwards_trend: Some of my Github stats so far...
 
