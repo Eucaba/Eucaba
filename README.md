@@ -1,32 +1,17 @@
 ### Hi there! Welcome! :wave:
 
-**My name is Eugenia, and I'm a former psychologist starting a new adventure as a full stack web developer** :tada: I love management, processes and technology. I'm certain that following this path will allow me to apply all the knowledge I've gained as a therapyst while I keep improving my coding skills :rocket: **Let's go!**
+My name is Eugenia and my career journey began in psychology, but my true passion lies in process, management, and technology. In 2023, I made the leap and studied web application development... and I haven’t looked back since!
+Today, **I work as a full-stack developer with a strong focus on backend development at Bymar-Park S.L.** I'm excited to keep growing technically while leveraging the valuable skills I gained in my previous roles.
+**Let’s build something great!** :rocket:
+
 
 ### You can reach me at:
 
 :mailbox_with_mail: eucaba.dev@gmail.com
 
+:page_with_curl: You can also check mi CV [here]([https://shorturl.at/gxzL3](https://www.canva.com/design/DAGsSiGYIms/oCMHaNNFZQR04pAugA5VHA/edit)
 
 [![Linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugeniacames/)
-
-:page_with_curl: You can also check mi CV [here](https://shorturl.at/gxzL3)
-
-
-
-### :wrench: :hammer: Currently working on:
-🧙🏼‍♂️ [Magic Duel](https://github.com/Eucaba/magic-duel/tree/main) A simple console application game built with C#.
-
-:doughnut::calling: [Ecommerce: click and collect](https://github.com/Eucaba/clickandcollect). This is a fullstack project. It's a click and collect app for a doughnut store.
-
-
-
-### :computer: Some of my projects:
-⛄ [Jingle Pairs](https://github.com/Eucaba/jinglepairs) A simple Xmas themed memory game. Made with HTML, CSS and JS.
-
-:iphone: [K0N3CT4](https://github.com/nachoa88/KoNeCTaReact). A React based app meant to bust youngster's access to culture.
-
-:recycle: [Ecopass](https://github.com/Eucaba/Ecopass). My first project ever. A vanilla JS app intended for granting teen access to culture and promoting environmental education.
-
 
 
 ### :dart: Some technologies that I have learned are:
